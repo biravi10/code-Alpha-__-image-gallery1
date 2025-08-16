@@ -1,2 +1,4 @@
 # code-Alpha-__-image-gallery1
-A simple and responsive calculator built using HTML, CSS, and JavaScript. Supports basic arithmetic operations like addition, subtraction, multiplication, and division.
+“Responsive image gallery using HTML, CSS & JS with filters and lightbox.”
+
+“Mini gallery project built with HTML/CSS/JS | Responsive 
